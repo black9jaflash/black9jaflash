@@ -6,7 +6,7 @@
   
 
 ### <div align="center"> Hi there I'm Gerald Okosun</div>
-<div align="center">Mobile App Developer And Programmer. With a strong background in Word Press, Flutter &Dart 👨‍💻 🚀</div>  
+<div align="center">Mobile App Developer And Programmer.  👨‍💻 </div>  
   
 
 

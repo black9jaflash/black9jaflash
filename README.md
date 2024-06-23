@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center"> Hi there I'm Gerald Okosun</div>
+### <div align="center">I'm Gerald Okosun</div>
 <div align="center">Mobile App Developer And Programmer.  👨‍💻 </div>  
   
 
